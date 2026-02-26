@@ -12,7 +12,7 @@ Library: D:\joc-licenta\joc-licenta\Temp\BurstOutput\Data\Plugins\x86_64\lib_bur
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\joc-licenta\joc-licenta\Temp\Burst
 --debug=Full
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\joc-licenta\joc-licenta\Library\Burst
 --output=D:\joc-licenta\joc-licenta\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -127,7 +127,7 @@ Library: D:\joc-licenta\joc-licenta\Temp\BurstOutput\Data\Plugins\x86_64\lib_bur
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\joc-licenta\joc-licenta\Temp\Burst
 --debug=Full
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\joc-licenta\joc-licenta\Library\Burst
 --output=D:\joc-licenta\joc-licenta\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -244,7 +244,7 @@ Library: D:\joc-licenta\joc-licenta\Temp\BurstOutput\Data\Plugins\x86_64\lib_bur
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\joc-licenta\joc-licenta\Temp\Burst
 --debug=Full
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\joc-licenta\joc-licenta\Library\Burst
 --output=D:\joc-licenta\joc-licenta\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -266,7 +266,7 @@ Library: D:\joc-licenta\joc-licenta\Temp\BurstOutput\Data\Plugins\x86_64\lib_bur
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=D:\joc-licenta\joc-licenta\Temp\Burst
 --debug=Full
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=D:\joc-licenta\joc-licenta\Library\Burst
 --output=D:\joc-licenta\joc-licenta\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
